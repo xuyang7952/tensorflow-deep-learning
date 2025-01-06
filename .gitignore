@@ -7,3 +7,10 @@
 best_model_SavedModel_format/*
 data/insurance.csv
 model.png
+pizza_steak.zip
+pizza_steak/*
+10_food_classes_all_data.zip
+10_food_classes_all_data/*
+__MACOSX/*
+03-*.jpeg
+saved_model11/*
