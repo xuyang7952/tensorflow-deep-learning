@@ -14,3 +14,6 @@ pizza_steak/*
 __MACOSX/*
 03-*.jpeg
 saved_model11/*
+10_food_classes_10_percent.zip
+10_food_classes_10_percent/*
+tensorflow_hub/*
