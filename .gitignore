@@ -17,3 +17,8 @@ saved_model11/*
 10_food_classes_10_percent.zip
 10_food_classes_10_percent/*
 tensorflow_hub/*
+10_food_classes_1_percent/*
+10_food_classes_1_percent.zip
+__pycache__/helper_functions.cpython-39.pyc
+transfer_learning/*
+ten_percent_model_checkpoints_weights/*
