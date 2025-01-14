@@ -22,3 +22,6 @@ tensorflow_hub/*
 __pycache__/helper_functions.cpython-39.pyc
 transfer_learning/*
 ten_percent_model_checkpoints_weights/*
+101_food_classes_10_percent/*
+101_food_classes_10_percent.zip
+data/*
