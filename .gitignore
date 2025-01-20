@@ -29,3 +29,9 @@ data/*
 101_classes_10_percent_data_model_checkpoint.data-00000-of-00001
 101_classes_10_percent_data_model_checkpoint.index
 
+downloaded_gs_model/*
+training_logs/*
+model_checkpoints/*
+07_efficientnetb0_feature_extract_model_mixed_precision.keras
+07_efficientnetb0_feature_extract_model_mixed_precision.h5
+07_efficientnetb0_feature_extract_model_mixed_precision.zip
