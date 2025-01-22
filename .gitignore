@@ -35,3 +35,12 @@ model_checkpoints/*
 07_efficientnetb0_feature_extract_model_mixed_precision.keras
 07_efficientnetb0_feature_extract_model_mixed_precision.h5
 07_efficientnetb0_feature_extract_model_mixed_precision.zip
+train.csv
+sample_submission.csv
+nlp_getting_started.zip
+test.csv
+model_log/*
+model6_SavedModel_format/*
+embedding_metadata.tsv
+embedding_vectors.tsv
+model6.h5
