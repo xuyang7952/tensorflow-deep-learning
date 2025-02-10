@@ -44,3 +44,7 @@ model6_SavedModel_format/*
 embedding_metadata.tsv
 embedding_vectors.tsv
 model6.h5
+pubmed-rct/*
+pubmed-rct-master.zip
+skimlit_tribrid_model/*
+skimlit_tribrid_model.zip
